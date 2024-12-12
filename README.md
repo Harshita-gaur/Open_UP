@@ -8,7 +8,7 @@ At Open_Up, you can:
 **Like Pictures:**  Show your love and appreciation by liking the photos shared by your friends.  
 
 
-Technologies Used:
+Technologies Used:  
 **Backend:** Django (Python)  
 **Frontend:** HTML, CSS, and JavaScript  
 **Database:** SQLite  
